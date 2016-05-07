@@ -78,5 +78,6 @@ e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons
 e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Debug\android\assets\System.Core.dll.mdb
 e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Debug\android\assets\System.dll.mdb
 e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Debug\Dungeons and Dragons 5e Dice Roller.csprojResolveAssemblyReference.cache
 e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Debug\Dungeons and Dragons 5e Dice Roller.dll.mdb
 e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\bin\Debug\Dungeons and Dragons 5e Dice Roller.dll.mdb

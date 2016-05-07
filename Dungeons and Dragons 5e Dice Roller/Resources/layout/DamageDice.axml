@@ -73,96 +73,88 @@
         android:id="@+id/SetupBox"
         android:layout_alignParentTop="true"
         android:layout_above="@+id/TotalRollText"
-        android:layout_toRightOf="@id/DieSelectRadioGroup">
+        android:layout_toRightOf="@+id/DieSelectRadioGroup"
+        android:layout_alignParentRight="true">
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/tableLayout1">
+            <TableRow
+                android:id="@+id/tableRow1">
+                <TextView
+                    android:text="Amount"
+                    android:layout_column="0"
+                    android:id="@+id/AmountText"
+                    android:layout_marginTop="5dp"
+                    android:paddingRight="25dp" />
+                <TextView
+                    android:text="Modifier"
+                    android:layout_column="1"
+                    android:id="@+id/ModifierText"
+                    android:layout_marginTop="5dp"
+                    android:paddingLeft="25dp" />
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRow2">
+                <ImageButton
+                    android:src="@drawable/uparrow"
+                    android:layout_column="0"
+                    android:id="@+id/AmountUpButton"
+                    android:background="@android:color/black"
+                    android:paddingRight="25dp" />
+                <ImageButton
+                    android:src="@drawable/uparrow"
+                    android:layout_column="1"
+                    android:id="@+id/ModifierUpButton"
+                    android:background="@android:color/black"
+                    android:paddingLeft="25dp" />
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRow3">
+                <TextView
+                    android:text="1"
+                    android:layout_column="0"
+                    android:id="@+id/AmountValueText"
+                    android:textStyle="bold"
+                    android:textSize="30dp"
+                    android:paddingLeft="10dp" />
+                <TextView
+                    android:text="0"
+                    android:layout_column="1"
+                    android:id="@+id/ModifierValueText"
+                    android:textStyle="bold"
+                    android:textSize="30dp"
+                    android:paddingLeft="35dp" />
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRow2">
+                <ImageButton
+                    android:src="@drawable/downarrow"
+                    android:layout_column="0"
+                    android:id="@+id/AmountDownButton"
+                    android:paddingRight="25dp"
+                    android:background="@android:color/black" />
+                <ImageButton
+                    android:src="@drawable/downarrow"
+                    android:layout_column="1"
+                    android:id="@+id/ModifierDownButton"
+                    android:paddingLeft="25dp"
+                    android:background="@android:color/black" />
+            </TableRow>
+        </TableLayout>
         <TextView
-            android:text="Modifier"
-            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:minWidth="25dp"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/ModifierText"
-            android:layout_alignParentRight="true"
-            android:layout_marginRight="50dp"
-            android:layout_marginTop="5dp"
-            android:layout_below="@id/DieSelectRadioGroup" />
-        <ImageButton
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/ModifierUpButton"
-            android:src="@drawable/uparrow"
-            android:layout_below="@+id/ModifierText"
-            android:layout_alignLeft="@+id/ModifierText"
-            android:background="@android:color/black"
-            android:layout_marginLeft="10dp" />
-        <TextView
-            android:textAppearance="?android:attr/textAppearanceLarge"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@+id/ModifierUpButton"
-            android:id="@+id/ModifierValueText"
-            android:textStyle="bold"
-            android:textSize="30dp"
-            android:layout_alignLeft="@id/ModifierText"
-            android:layout_marginLeft="10dp" />
-        <ImageButton
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@+id/ModifierValueText"
-            android:id="@+id/ModifierDownButton"
-            android:layout_alignLeft="@+id/ModifierText"
-            android:src="@drawable/downarrow"
-            android:background="@android:color/black"
-            android:layout_marginLeft="10dp" />
-        <TextView
-            android:text="Amount"
-            android:textAppearance="?android:attr/textAppearanceSmall"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/AmountText"
-            android:layout_alignParentLeft="true"
-            android:layout_marginLeft="50dp"
-            android:layout_marginTop="5dp"
-            android:layout_below="@id/DieSelectRadioGroup" />
-        <ImageButton
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/AmountUpButton"
-            android:src="@drawable/uparrow"
-            android:layout_below="@+id/AmountText"
-            android:layout_alignLeft="@+id/AmountText"
-            android:background="@android:color/black"
-            android:layout_marginLeft="10dp" />
-        <TextView
-            android:textAppearance="?android:attr/textAppearanceLarge"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@+id/ModifierUpButton"
-            android:id="@+id/AmountValueText"
-            android:textStyle="bold"
-            android:textSize="30dp"
-            android:layout_alignLeft="@+id/AmountText"
-            android:layout_marginLeft="10dp" />
-        <ImageButton
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@+id/AmountValueText"
-            android:id="@+id/AmountDownButton"
-            android:layout_alignLeft="@+id/AmountText"
-            android:src="@drawable/downarrow"
-            android:background="@android:color/black"
-            android:layout_marginLeft="10dp" />
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_toLeftOf="@+id/ModifierText"
             android:id="@+id/DieRollText"
             android:layout_marginRight="10dp"
-            android:layout_toRightOf="@+id/AmountText"
             android:layout_marginLeft="10dp"
             android:layout_alignParentBottom="true"
-            android:layout_below="@id/AmountDownButton"
+            android:layout_below="@+id/tableLayout1"
             android:textSize="20dp"
-            android:layout_alignLeft="@+id/AmountText"
-            android:layout_alignRight="@id/ModifierText" />
+            android:layout_centerHorizontal="true"
+            android:maxWidth="150dp" />
     </RelativeLayout>
     <TextView
         android:layout_width="wrap_content"

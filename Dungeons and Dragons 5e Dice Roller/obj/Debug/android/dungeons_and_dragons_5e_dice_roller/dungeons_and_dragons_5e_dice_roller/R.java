@@ -64,13 +64,13 @@ public final class R {
     public static final class id {
         public static final int ActivitySwitchBox=0x7f06000d;
         public static final int AdvantageCheckBox=0x7f060000;
-        public static final int AmountDownButton=0x7f06001c;
-        public static final int AmountText=0x7f060019;
-        public static final int AmountUpButton=0x7f06001a;
-        public static final int AmountValueText=0x7f06001b;
-        public static final int D20ImageButton=0x7f06001e;
+        public static final int AmountDownButton=0x7f060020;
+        public static final int AmountText=0x7f06001b;
+        public static final int AmountUpButton=0x7f06001d;
+        public static final int AmountValueText=0x7f06001f;
+        public static final int D20ImageButton=0x7f060022;
         public static final int DamageImageButton=0x7f06000e;
-        public static final int DieRollText=0x7f06001d;
+        public static final int DieRollText=0x7f060021;
         public static final int DieSelectRadioGroup=0x7f060010;
         public static final int DisadvantageCheckBox=0x7f060001;
         public static final int LeftXImage=0x7f06000a;
@@ -78,14 +78,14 @@ public final class R {
         public static final int ModifierText=0x7f060002;
         public static final int ModifierUpButton=0x7f060003;
         public static final int ModifierValueText=0x7f060004;
-        public static final int OnesDieImage=0x7f060022;
-        public static final int PercentileDiceBox=0x7f06001f;
+        public static final int OnesDieImage=0x7f060026;
+        public static final int PercentileDiceBox=0x7f060023;
         public static final int PercentileImageButton=0x7f06000f;
-        public static final int PercentileRollText=0x7f060020;
+        public static final int PercentileRollText=0x7f060024;
         public static final int RightXImage=0x7f06000b;
         public static final int RollButton=0x7f06000c;
         public static final int SetupBox=0x7f060017;
-        public static final int TensDieImage=0x7f060021;
+        public static final int TensDieImage=0x7f060025;
         public static final int TotalRollText=0x7f060018;
         public static final int d10RadioButton=0x7f060014;
         public static final int d12RadioButton=0x7f060015;
@@ -97,6 +97,10 @@ public final class R {
         public static final int d4RadioButton=0x7f060011;
         public static final int d6RadioButton=0x7f060012;
         public static final int d8RadioButton=0x7f060013;
+        public static final int tableLayout1=0x7f060019;
+        public static final int tableRow1=0x7f06001a;
+        public static final int tableRow2=0x7f06001c;
+        public static final int tableRow3=0x7f06001e;
     }
     public static final class layout {
         public static final int d20=0x7f030000;
