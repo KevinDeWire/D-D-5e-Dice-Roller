@@ -1,0 +1,9 @@
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\android\assets\Dungeons and Dragons 5e Dice Roller.dll
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\android\assets\Java.Interop.dll
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\android\assets\Mono.Android.dll
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\android\assets\mscorlib.dll
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\android\assets\System.Core.dll
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\android\assets\System.dll
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\android\assets\System.Xml.dll
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\android\assets\System.Runtime.Serialization.dll
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\android\assets\System.ServiceModel.Internals.dll

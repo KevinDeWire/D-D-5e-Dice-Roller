@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E67A7B11-F2A2-45E6-AB3C-70737B06481B}</ProjectGuid>
+    <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Dungeons_and_Dragons_5e_Dice_Roller</RootNamespace>
+    <AssemblyName>Dungeons and Dragons 5e Dice Roller</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <AndroidApplication>true</AndroidApplication>
+    <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
+    <TargetFrameworkVersion>v6.0</TargetFrameworkVersion>
+    <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidUseSharedRuntime>False</AndroidUseSharedRuntime>
+    <AndroidLinkMode>Full</AndroidLinkMode>
+    <AndroidLinkSkip />
+    <EmbedAssembliesIntoApk>True</EmbedAssembliesIntoApk>
+    <BundleAssemblies>False</BundleAssemblies>
+    <AndroidCreatePackagePerAbi>False</AndroidCreatePackagePerAbi>
+    <AndroidSupportedAbis>armeabi-v7a,x86</AndroidSupportedAbis>
+    <AndroidStoreUncompressedFileExtensions />
+    <MandroidI18n />
+    <Debugger>Xamarin</Debugger>
+    <AndroidEnableMultiDex>False</AndroidEnableMultiDex>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidUseSharedRuntime>False</AndroidUseSharedRuntime>
+    <AndroidLinkMode>SdkOnly</AndroidLinkMode>
+    <AndroidLinkSkip />
+    <EmbedAssembliesIntoApk>True</EmbedAssembliesIntoApk>
+    <BundleAssemblies>False</BundleAssemblies>
+    <AndroidCreatePackagePerAbi>False</AndroidCreatePackagePerAbi>
+    <AndroidSupportedAbis>armeabi-v7a,x86</AndroidSupportedAbis>
+    <AndroidStoreUncompressedFileExtensions />
+    <MandroidI18n />
+    <Debugger>Xamarin</Debugger>
+    <AotAssemblies>False</AotAssemblies>
+    <EnableLLVM>False</EnableLLVM>
+    <AndroidEnableMultiDex>False</AndroidEnableMultiDex>
+    <EnableProguard>False</EnableProguard>
+    <DebugSymbols>False</DebugSymbols>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Mono.Android" />
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="d20.cs" />
+    <Compile Include="DamageDice.cs" />
+    <Compile Include="DieClass.cs" />
+    <Compile Include="MainActivity.cs" />
+    <Compile Include="MultipleDiceClass.cs" />
+    <Compile Include="Percentile.cs" />
+    <Compile Include="Resources\Resource.Designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AboutResources.txt" />
+    <None Include="Assets\AboutAssets.txt" />
+    <AndroidResource Include="Resources\layout\d20.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\DamageDice.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Percentile.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\Main.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\values\Strings.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\AndroidManifest.xml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\d10_00.png" />
+    <AndroidResource Include="Resources\drawable\d10_0.png" />
+    <AndroidResource Include="Resources\drawable\d10_1.png" />
+    <AndroidResource Include="Resources\drawable\d10_2.png" />
+    <AndroidResource Include="Resources\drawable\d10_3.png" />
+    <AndroidResource Include="Resources\drawable\d10_4.png" />
+    <AndroidResource Include="Resources\drawable\d10_5.png" />
+    <AndroidResource Include="Resources\drawable\d10_6.png" />
+    <AndroidResource Include="Resources\drawable\d10_7.png" />
+    <AndroidResource Include="Resources\drawable\d10_8.png" />
+    <AndroidResource Include="Resources\drawable\d10_9.png" />
+    <AndroidResource Include="Resources\drawable\d10_10.png" />
+    <AndroidResource Include="Resources\drawable\d10_20.png" />
+    <AndroidResource Include="Resources\drawable\d10_30.png" />
+    <AndroidResource Include="Resources\drawable\d10_40.png" />
+    <AndroidResource Include="Resources\drawable\d10_50.png" />
+    <AndroidResource Include="Resources\drawable\d10_60.png" />
+    <AndroidResource Include="Resources\drawable\d10_70.png" />
+    <AndroidResource Include="Resources\drawable\d10_80.png" />
+    <AndroidResource Include="Resources\drawable\d10_90.png" />
+    <AndroidResource Include="Resources\drawable\d20_1.png" />
+    <AndroidResource Include="Resources\drawable\d20_10.png" />
+    <AndroidResource Include="Resources\drawable\d20_11.png" />
+    <AndroidResource Include="Resources\drawable\d20_12.png" />
+    <AndroidResource Include="Resources\drawable\d20_13.png" />
+    <AndroidResource Include="Resources\drawable\d20_14.png" />
+    <AndroidResource Include="Resources\drawable\d20_15.png" />
+    <AndroidResource Include="Resources\drawable\d20_16.png" />
+    <AndroidResource Include="Resources\drawable\d20_17.png" />
+    <AndroidResource Include="Resources\drawable\d20_18.png" />
+    <AndroidResource Include="Resources\drawable\d20_19.png" />
+    <AndroidResource Include="Resources\drawable\d20_2.png" />
+    <AndroidResource Include="Resources\drawable\d20_20.png" />
+    <AndroidResource Include="Resources\drawable\d20_3.png" />
+    <AndroidResource Include="Resources\drawable\d20_4.png" />
+    <AndroidResource Include="Resources\drawable\d20_5.png" />
+    <AndroidResource Include="Resources\drawable\d20_6.png" />
+    <AndroidResource Include="Resources\drawable\d20_7.png" />
+    <AndroidResource Include="Resources\drawable\d20_8.png" />
+    <AndroidResource Include="Resources\drawable\d20_9.png" />
+    <AndroidResource Include="Resources\drawable\d20_X.png" />
+    <AndroidResource Include="Resources\drawable\damage.png" />
+    <AndroidResource Include="Resources\drawable\percentile.png" />
+    <AndroidResource Include="Resources\drawable\DownArrow.png" />
+    <AndroidResource Include="Resources\drawable\UpArrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\values\color.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+     Other similar extension points exist, see Microsoft.Common.targets.
+		<Target Name="BeforeBuild">
+		</Target>
+		<Target Name="AfterBuild">
+		</Target>
+ -->
+</Project>

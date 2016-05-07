@@ -1,0 +1,84 @@
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\bin\Release\Dungeons and Dragons 5e Dice Roller.dll
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\bin\Release\Dungeons and Dragons 5e Dice Roller.pdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\bin\Release\Dungeons_and_Dragons_5e_Dice_Roller.Dungeons_and_Dragons_5e_Dice_Roller.apk
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\bin\Release\Dungeons_and_Dragons_5e_Dice_Roller.Dungeons_and_Dragons_5e_Dice_Roller-Signed.apk
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\Dungeons and Dragons 5e Dice Roller.dll
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\Dungeons and Dragons 5e Dice Roller.pdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\android\bin\Dungeons_and_Dragons_5e_Dice_Roller.Dungeons_and_Dragons_5e_Dice_Roller.apk
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\layout\d20.xml
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\layout\damagedice.xml
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\layout\percentile.xml
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\layout\main.xml
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\values\strings.xml
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\icon.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d10_00.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d10_0.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d10_1.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d10_2.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d10_3.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d10_4.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d10_5.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d10_6.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d10_7.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d10_8.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d10_9.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d10_10.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d10_20.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d10_30.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d10_40.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d10_50.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d10_60.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d10_70.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d10_80.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d10_90.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d20_1.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d20_10.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d20_11.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d20_12.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d20_13.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d20_14.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d20_15.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d20_16.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d20_17.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d20_18.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d20_19.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d20_2.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d20_20.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d20_3.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d20_4.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d20_5.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d20_6.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d20_7.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d20_8.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d20_9.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\d20_x.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\damage.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\percentile.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\downarrow.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\drawable\uparrow.png
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\R.cs.flag
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\uploadflags.txt
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\res\values\color.xml
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\bin\Release\Dungeons and Dragons 5e Dice Roller.dll.mdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\bin\Release\Java.Interop.dll.mdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\bin\Release\Mono.Android.dll.mdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\bin\Release\mscorlib.dll.mdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\bin\Release\System.ComponentModel.Composition.dll.mdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\bin\Release\System.Core.dll.mdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\bin\Release\System.dll.mdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\bin\Release\System.Net.Http.dll.mdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\bin\Release\System.Runtime.Serialization.dll.mdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\bin\Release\System.ServiceModel.Internals.dll.mdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\bin\Release\System.Xml.dll.mdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\bin\Release\System.Xml.Linq.dll.mdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\android\assets\Dungeons and Dragons 5e Dice Roller.dll.mdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\android\assets\Java.Interop.dll.mdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\android\assets\Mono.Android.dll.mdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\android\assets\mscorlib.dll.mdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\android\assets\System.Core.dll.mdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\android\assets\System.dll.mdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\android\assets\System.ServiceModel.Internals.dll.mdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\android\assets\System.Xml.dll.mdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\obj\Release\Dungeons and Dragons 5e Dice Roller.dll.mdb
+e:\documents\visual studio 2015\Projects\D+D 5e Dice Roller\Dungeons and Dragons 5e Dice Roller\bin\Release\Dungeons and Dragons 5e Dice Roller.dll.mdb

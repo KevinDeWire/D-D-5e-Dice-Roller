@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="Dungeons_and_Dragons_5e_Dice_Roller.Dungeons_and_Dragons_5e_Dice_Roller" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="8" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <application android:label="Dungeons_and_Dragons_5e_Dice_Roller" android:icon="@drawable/d20_20" android:debuggable="false" android:name="android.app.Application" android:allowBackup="true">
+    <activity android:label="d20" android:name="md51e7f247d0684c6998af2586b7b653575.d20" />
+    <activity android:label="DamageDice" android:name="md51e7f247d0684c6998af2586b7b653575.DamageDice" />
+    <activity android:icon="@drawable/d20_20" android:label="Dungeons &amp; Dragons 5e Dice Roller" android:name="md51e7f247d0684c6998af2586b7b653575.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="Percentile" android:name="md51e7f247d0684c6998af2586b7b653575.Percentile" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Dungeons_and_Dragons_5e_Dice_Roller.Dungeons_and_Dragons_5e_Dice_Roller.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+</manifest>
