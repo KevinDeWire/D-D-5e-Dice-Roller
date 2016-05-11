@@ -2,7 +2,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/black">
+    android:background="@color/background_color">
     <RadioGroup
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -68,12 +68,12 @@
     <RelativeLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@android:color/black"
+        android:background="@color/background_color"
         android:layout_centerHorizontal="true"
         android:id="@+id/SetupBox"
         android:layout_alignParentTop="true"
         android:layout_above="@+id/TotalRollText"
-        android:layout_toRightOf="@+id/DieSelectRadioGroup"
+        android:layout_toRightOf="@id/DieSelectRadioGroup"
         android:layout_alignParentRight="true">
         <TableLayout
             android:layout_width="wrap_content"
@@ -102,13 +102,13 @@
                     android:src="@drawable/uparrow"
                     android:layout_column="0"
                     android:id="@+id/AmountUpButton"
-                    android:background="@android:color/black"
+                    android:background="@color/background_color"
                     android:paddingRight="25dp" />
                 <ImageButton
                     android:src="@drawable/uparrow"
                     android:layout_column="1"
                     android:id="@+id/ModifierUpButton"
-                    android:background="@android:color/black"
+                    android:background="@color/background_color"
                     android:paddingLeft="25dp" />
             </TableRow>
             <TableRow
@@ -119,14 +119,16 @@
                     android:id="@+id/AmountValueText"
                     android:textStyle="bold"
                     android:textSize="30dp"
-                    android:paddingLeft="10dp" />
+                    android:layout_gravity="center_horizontal"
+                    android:paddingRight="25dp" />
                 <TextView
                     android:text="0"
                     android:layout_column="1"
                     android:id="@+id/ModifierValueText"
                     android:textStyle="bold"
                     android:textSize="30dp"
-                    android:paddingLeft="35dp" />
+                    android:paddingLeft="25dp"
+                    android:layout_gravity="center_horizontal" />
             </TableRow>
             <TableRow
                 android:id="@+id/tableRow2">
@@ -135,18 +137,19 @@
                     android:layout_column="0"
                     android:id="@+id/AmountDownButton"
                     android:paddingRight="25dp"
-                    android:background="@android:color/black" />
+                    android:background="@color/background_color" />
                 <ImageButton
                     android:src="@drawable/downarrow"
                     android:layout_column="1"
                     android:id="@+id/ModifierDownButton"
                     android:paddingLeft="25dp"
-                    android:background="@android:color/black" />
+                    android:background="@color/background_color" />
             </TableRow>
         </TableLayout>
         <TextView
             android:minWidth="25dp"
             android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:id="@+id/DieRollText"
             android:layout_marginRight="10dp"
             android:layout_marginLeft="10dp"
@@ -159,6 +162,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:minWidth="25dp"
         android:id="@+id/TotalRollText"
         android:textSize="50dp"
         android:layout_centerHorizontal="true"

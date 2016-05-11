@@ -2,6 +2,6 @@
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <AndroidDesignerPreferredDevice>3.2" QVGA %28ADP2%29</AndroidDesignerPreferredDevice>
-    <SelectedDevice>AVD_for_Nexus_4_by_Google</SelectedDevice>
+    <SelectedDevice>AVD_for_3_2_QVGA_ADP2</SelectedDevice>
   </PropertyGroup>
 </Project>

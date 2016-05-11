@@ -2,7 +2,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/black">
+    android:background="@color/background_color">
     <CheckBox
         android:text="Advantage"
         android:layout_width="wrap_content"
@@ -19,47 +19,61 @@
         android:id="@+id/DisadvantageCheckBox"
         android:layout_alignLeft="@+id/AdvantageCheckBox"
         android:layout_marginTop="10dp" />
-    <TextView
-        android:text="Modifier"
-        android:textAppearance="?android:attr/textAppearanceSmall"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/ModifierText"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentRight="true"
-        android:layout_marginRight="50dp"
-        android:layout_marginTop="5dp" />
-    <ImageButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/ModifierUpButton"
-        android:src="@drawable/uparrow"
-        android:layout_below="@+id/ModifierText"
-        android:layout_alignLeft="@+id/ModifierText"
-        android:background="@android:color/black"
-        android:layout_marginLeft="10dp" />
-    <TextView
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/ModifierUpButton"
-        android:id="@+id/ModifierValueText"
-        android:textStyle="bold"
-        android:textSize="30dp"
-        android:layout_alignLeft="@id/ModifierText"
-        android:layout_marginLeft="10dp" />
-    <ImageButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/ModifierValueText"
-        android:id="@+id/ModifierDownButton"
-        android:layout_alignLeft="@+id/ModifierText"
-        android:src="@drawable/downarrow"
-        android:background="@android:color/black"
-        android:layout_marginLeft="10dp" />
     <RelativeLayout
         android:layout_width="wrap_content"
-        android:background="@android:color/black"
+        android:layout_height="wrap_content"
+        android:background="@color/background_color"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/SetupBox"
+        android:layout_alignParentTop="true"
+        android:layout_above="@+id/d20DiceBox"
+        android:layout_toRightOf="@+id/DisadvantageCheckBox"
+        android:layout_alignParentRight="true">
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/tableLayout1">
+            <TableRow
+                android:id="@+id/tableRow1">
+                <TextView
+                    android:text="Modifier"
+                    android:layout_column="0"
+                    android:id="@+id/ModifierText"
+                    android:layout_marginTop="5dp" />
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRow2">
+                <ImageButton
+                    android:src="@drawable/uparrow"
+                    android:layout_column="0"
+                    android:id="@+id/ModifierUpButton"
+                    android:background="@color/background_color" />
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRow3">
+                <TextView
+                    android:text="0"
+                    android:layout_column="0"
+                    android:id="@+id/ModifierValueText"
+                    android:textStyle="bold"
+                    android:textSize="30dp"
+                    android:layout_gravity="center_horizontal" />
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRow2">
+                <ImageButton
+                    android:src="@drawable/downarrow"
+                    android:layout_column="0"
+                    android:id="@+id/ModifierDownButton"
+                    android:background="@color/background_color" />
+            </TableRow>
+        </TableLayout>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:background="@color/background_color"
         android:layout_centerHorizontal="true"
         android:id="@+id/d20DiceBox"
         android:layout_above="@+id/d20RollText"
@@ -119,7 +133,7 @@
     <RelativeLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@android:color/black"
+        android:background="@color/background_color"
         android:layout_centerHorizontal="true"
         android:layout_alignParentBottom="true"
         android:id="@+id/ActivitySwitchBox"
@@ -129,13 +143,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/DamageImageButton"
-            android:background="@android:color/black" />
+            android:background="@color/background_color" />
         <ImageButton
             android:src="@drawable/percentile"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/PercentileImageButton"
-            android:background="@android:color/black"
+            android:background="@color/background_color"
             android:layout_toRightOf="@+id/DamageImageButton"
             android:layout_marginLeft="75dp" />
     </RelativeLayout>

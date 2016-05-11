@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:minWidth="25px"
     android:minHeight="25px"
-    android:background="@android:color/black">
+    android:background="@color/background_color">
     <ImageButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -12,7 +12,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="25dp"
         android:src="@drawable/d20_20"
-        android:background="@android:color/black" />
+        android:background="@color/background_color" />
     <ImageButton
         android:src="@drawable/damage"
         android:layout_width="wrap_content"
@@ -21,7 +21,7 @@
         android:id="@+id/DamageImageButton"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="50dp"
-        android:background="@android:color/black" />
+        android:background="@color/background_color" />
     <ImageButton
         android:src="@drawable/percentile"
         android:layout_width="wrap_content"
@@ -30,5 +30,5 @@
         android:id="@+id/PercentileImageButton"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="50dp"
-        android:background="@android:color/black" />
+        android:background="@color/background_color" />
 </RelativeLayout>

@@ -2,11 +2,11 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/black">
+    android:background="@color/background_color">
     <RelativeLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@android:color/black"
+        android:background="@color/background_color"
         android:layout_centerHorizontal="true"
         android:id="@+id/PercentileDiceBox"
         android:layout_above="@+id/PercentileRollText"
@@ -49,7 +49,7 @@
     <RelativeLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@android:color/black"
+        android:background="@color/background_color"
         android:layout_centerHorizontal="true"
         android:layout_alignParentBottom="true"
         android:id="@+id/ActivitySwitchBox"
@@ -59,13 +59,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/D20ImageButton"
-            android:background="@android:color/black" />
+            android:background="@color/background_color" />
         <ImageButton
             android:src="@drawable/damage"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/DamageImageButton"
-            android:background="@android:color/black"
+            android:background="@color/background_color"
             android:layout_toRightOf="@+id/D20ImageButton"
             android:layout_marginLeft="75dp" />
     </RelativeLayout>
