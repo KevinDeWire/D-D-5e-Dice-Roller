@@ -1,5 +1,6 @@
 # D-D-5e-Dice-Roller
 This is a dice rolling app for Android.
+It was created using Visual Studio and Xamarin and is written in C#.
 
 This project was created as part of a Mobile App Development course.
 I play D&D and I love random number generators.  So, I created an app to replace dice at the table.
